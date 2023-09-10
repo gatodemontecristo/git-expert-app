@@ -7,10 +7,8 @@ import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* tituklo */}
+  
     <GifExpertApp />
-    {/* input */}
-    {/* Listado de Gif */}
-    {/* Gif Item */}
+    
   </React.StrictMode>,
 )
