@@ -9,6 +9,8 @@ export const GifExpertApp = () => {
 
     setCategories((c) => [...c, newCategory]);
   };
+
+  
   return ( 
     <>
       <h1>GifExpertApp</h1>
