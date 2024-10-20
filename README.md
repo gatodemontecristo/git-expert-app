@@ -5,6 +5,9 @@ Pagina web realizado solo con HTML, CSS, Javascript y React 	![HTML5](https://im
 
 Página de Mockup -> https://shots.so/
 
+![image](https://github.com/user-attachments/assets/8a23cade-4318-4d7e-b297-ac5a3984a0fd)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
